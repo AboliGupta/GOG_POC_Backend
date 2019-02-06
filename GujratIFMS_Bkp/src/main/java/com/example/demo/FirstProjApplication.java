@@ -17,7 +17,6 @@ import org.springframework.web.filter.CorsFilter;
 
 import ch.qos.logback.classic.Logger;
 
-
 @SpringBootApplication
 @EnableCaching
 @EnableAuthorizationServer
